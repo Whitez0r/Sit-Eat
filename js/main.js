@@ -306,7 +306,7 @@ function init() {
   new Swiper(".swiper-container", {
     loop: true,
     sliderPerView: 1,
-    // autoplay: true
+    autoplay: true
   });
 }
 
